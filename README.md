@@ -1,6 +1,7 @@
 # DML-commands
 
 Managers Table
+
 This SQL script creates a table named Managers with the following fields:
 
 Manager_Id (Primary Key): Unique identifier for each manager.
